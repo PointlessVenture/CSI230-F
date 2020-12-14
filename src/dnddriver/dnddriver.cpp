@@ -38,7 +38,7 @@ int main(int argc, char* argv[])
     if(!fileInput)
     {
         cout << "ERROR: File not readable." << endl;
-        return 0;
+        return 1;
     }
     else
     {
