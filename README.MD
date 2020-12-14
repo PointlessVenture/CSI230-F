@@ -8,7 +8,7 @@ The program will take the stat data from the files, parse it into usable data us
 with an interface in which they can interact with the enemies they have created, making them roll dice as needed by the game, 
 modifying their health, giving them names, et cetera.
 
-A  library will be created to parse the data, 
+The library that I created to parse the data, 
 allowing the program to turn a rip of a D&D stat block into a machine readable format. 
 
 An example of a stat block is shown in assets/acolyte.txt. 
